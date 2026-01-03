@@ -203,6 +203,10 @@ button:hover {
     animation-iteration-count: infinite;
 }
 
+.error {
+    border-color: red !important;
+}
+
 @media only screen and (max-width: 768px) {
     .login-container {
         flex-direction: column;
@@ -212,7 +216,8 @@ button:hover {
         flex: 3;
     }
 
-    .login-form-content {
+    .login-form-content,
+    .sign-up-form-content {
         width: 90%;
     }
 

@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "f15f",
+      "name": "Gianderson Fernando dozoretz da Silva",
+      "email": "giandozoretz@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "cce1",
+      "name": "Gianderson",
+      "email": "gianderson@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "a259",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "36a6",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "f5d0",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "beac",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "fb95",
+      "name": "Gianderson",
+      "email": "giandozoretz@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
